@@ -1,0 +1,298 @@
+
+section{
+	min-height: 100vh;
+	background-color: #e2ecee;
+}
+.container{
+	display: flex;
+	align-content: center;
+	justify-content: center;
+}
+.box{
+	width: 350px;
+	height: 450px;
+	background:#e2ecee;
+	margin-top: 150px;
+	border-radius: 15px;
+	transition: 1s;
+	box-shadow: 8px 8px 10px #bcc4c6, -8px -8px 10px #ffffff;
+
+}
+
+.box1{
+	width: 350px;
+	height: 400px;
+	background:#e2ecee;
+	margin-top: 150px;
+	border-radius: 15px;
+	transition: 1s;
+	box-shadow: 8px 8px 10px #bcc4c6, -8px -8px 10px #ffffff;
+
+}
+h2{
+	color: #5c0ece;
+	text-transform: uppercase;
+	margin: 30px 0;
+	text-align: center;
+
+}
+
+
+.box-group{
+	margin-bottom: 35px;
+
+}
+
+form{
+	padding: 23px;
+}
+input{
+	border: none;
+	display: block;
+	font-size: 1em;
+	padding: 6px 0 6px 6px;
+	width: 300px;
+	border-radius: 10px;
+	background: #e2ecee;
+	color: #5c0ece;
+	box-shadow: inset 8px 8px 10px #bcc4c6, inset -8px -8px 10px #ffffff;
+	
+}
+
+button{
+	display: block;
+	margin: 0 auto;
+	padding: 6px 70px;
+	font-size: 16px;
+	font-weight: 600;
+	border: none;
+	border-radius: 15px;
+	cursor: pointer;
+	background-color:#5c0ece;
+	color: #fff;
+	transition: 0.3s;
+	box-shadow: 8px 8px 10px #bcc4c6, -8px -8px 10px #ffffff;
+
+
+}
+
+button:hover{
+	background-color: #3b058a;
+}
+.box-footer{
+	color: #5c0ece;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 600;
+	transition: 0.3s;
+}
+
+.box-footer a:hover{
+	text-decoration: none;
+	color: #3b058a;
+}
+
+#bg {
+
+    background-image: url(images/IMG_20221002_222143_099-01\ 1.jpg);
+	background-size: cover;
+	
+}
+
+#p
+{ 
+ 
+background-image: url(images/IMG_20221002_222143_099-01\ 1.jpg);
+height: 1100px;
+width: 1400px;
+background-size: 100%;
+background-attachment: fixed;
+ 
+  
+
+}
+.juet{
+    position: absolute;
+width: 1411px;
+height: 88px;
+left: 17px;
+top: 116px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+line-height: 112px;
+
+color: #FFFFFF;
+}
+
+.lower{
+position: absolute;
+width: 1400px;
+height: 210px;
+left: 9px;
+top: 1024px;
+background-color:black;
+
+}
+.juet1{
+    position: absolute;
+width: 1352px;
+height: 149px;
+left: 55px;
+top: 379px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 50px;
+/* or 156% */
+
+letter-spacing: 0.04em;
+
+
+color: #FFFFFF;
+}
+.a1{
+	position: absolute;
+width: 260.04px;
+height: 74.43px;
+left: 48px;
+top: 864px;
+   
+}
+.a2
+{
+
+	position: absolute;
+width: 260.04px;
+height: 74.43px;
+left: 392px;
+top: 864px;
+
+}
+.gp{
+	position: absolute;
+width: 260.04px;
+height: 74.43px;
+left: 627px;
+top: 1033px;
+}
+
+spam{
+    background: #f7a103;
+    height: 100%;
+    width: 0%;
+    border-radius: 25px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: 0.5s;
+
+
+}
+button:hover spam{
+    width: 100%;
+}
+button:hover {
+    border: none;
+}
+
+
+#p
+{ 
+ 
+background-image: url(images/IMG_20221002_222143_099-01\ 1.jpg);
+height: 1100px;
+width: 1400px;
+background-size: 100%;
+background-attachment: fixed;
+ 
+  
+
+}
+.juet{
+    position: absolute;
+width: 1411px;
+height: 88px;
+left: 17px;
+top: 116px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+line-height: 112px;
+
+color: #FFFFFF;
+}
+
+.lower{
+position: absolute;
+width: 1400px;
+height: 150x;
+left: 9px;
+top: 1024px;
+background-color:black;
+
+}
+.b1{
+    position: absolute;
+width: 179.02px;
+height: 53.79px;
+left: 749px;
+top: 50.73px;
+
+
+
+
+}
+.b2{
+    position: absolute;
+    width: 179.02px;
+    height: 53.79px;
+    left: 973px;
+    top: 50.73px;
+}
+.b3{
+    position: absolute;
+    width: 179.02px;
+    height: 53.79px;
+    left: 1197px;
+    top: 50.73px;
+}
+
+.b4{
+	position: absolute;
+width: 260.04px;
+height: 74.43px;
+left: 67px;
+top: 318px;
+	
+}
+
+
+
+.dp{
+    position: absolute;
+width: 1352px;
+height: 468px;
+left: 55px;
+top: 371px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 50px;
+/* or 156% */
+
+letter-spacing: 0.04em;
+
+color: #070101da;
+}
+
+
